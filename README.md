@@ -17,3 +17,7 @@
 - [Slides](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom)
 - [Source Code](https://github.com/martine-dowden/vanilla-retro-js)
 - [Library](https://www.npmjs.com/package/vanilla-retro-js)
+
+## Building Command-Line Applications with OAuth in Node
+- [Slides](https://docs.google.com/presentation/d/1XOHOB7lwkjdLm_Et04xBxk62AEvyz6jXbXVQRfBn55A/edit?usp=sharing)
+- [pd-node-cli demo project](https://github.com/stmcallister/pd-node-cli)
