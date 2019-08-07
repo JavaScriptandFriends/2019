@@ -21,3 +21,6 @@
 ## Building Command-Line Applications with OAuth in Node
 - [Slides](https://docs.google.com/presentation/d/1XOHOB7lwkjdLm_Et04xBxk62AEvyz6jXbXVQRfBn55A/edit?usp=sharing)
 - [pd-node-cli demo project](https://github.com/stmcallister/pd-node-cli)
+
+## Building cross-platform browser add-ons using Web Extension API
+- [Slides](https://slides.com/jenal/jsfriends2019/)
