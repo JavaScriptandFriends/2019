@@ -24,3 +24,9 @@
 
 ## Building cross-platform browser add-ons using Web Extension API
 - [Slides](https://slides.com/jenal/jsfriends2019/)
+
+## Reinforcing your blocks: A practical guide to UI component testing
+- [Slides](https://github.com/diego-codes/ui-component-testing-talk/blob/master/slides/ui-testing-talk-slides.pdf)
+- [Storybook](https://diego-codes.github.io/ui-component-testing-talk/)
+- [Source code](https://github.com/diego-codes/ui-component-testing-talk)
+- [Resources](https://github.com/diego-codes/ui-component-testing-talk#resources)
