@@ -30,3 +30,6 @@
 - [Storybook](https://diego-codes.github.io/ui-component-testing-talk/)
 - [Source code](https://github.com/diego-codes/ui-component-testing-talk)
 - [Resources](https://github.com/diego-codes/ui-component-testing-talk#resources)
+
+## Curriculum to Command Line: Why Teachers Make Awesome Coders, and What Your Team Can Learn from Them
+- [Slides](https://speakerdeck.com/tinezekis/curriculum-to-command-line-why-teachers-make-awesome-coders-and-what-your-team-can-learn-from-them)
